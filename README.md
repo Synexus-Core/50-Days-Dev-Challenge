@@ -18,12 +18,12 @@ Welcome to the official repository for the **50-Day Development Challenge**, hos
 
 To successfully complete the challenge and qualify for the rewards, you must follow this daily routine:
 
-1. **Check the Repo:** Every morning, a new folder (e.g., `Day-01`) will be uploaded to this repository with the daily problem statement, requirements, and logic breakdown.
-2. **Write the Code:** Build the solution on your local machine and push the code to your *own* personal GitHub repository. 
-3. **Post on LinkedIn:** By End of Day (EOD), create a post on your updated LinkedIn profile showcasing what you built. Include a screenshot, video snippet, or a link to your code.
-4. **Tag & Hashtag:** You **must** mention `@synexus` and include the following four official hashtags (not limited to) in every daily post:
+1. **Check the Repo:** Every evening, a new folder (e.g., `Day-01`) will be uploaded to this repository with the daily problem statement, requirements, and logic breakdown.
+2. **Write the Code:** Build the solution on your local machine and push the code to your *own* personal GitHub repository. Make sure your repo is set to public visibility.
+3. **Post on LinkedIn:** By Next End of Day (EOD), create a post on your updated LinkedIn profile showcasing what you built. Include a screenshot, video snippet, or a link to your code.
+4. **Tag & Hashtag:** You **must** mention `@synexus` our official LinkedIn Page and include the following official hashtags (not limited to) in every daily post:
    
-   `#synexuscore` `#50daysdev` `#50daysweb` `#synexuswebdev`
+   `#synexuscore` `#50daysdev` `#50daysweb` `#synexuswebdev` `#FullStackDeveloper` `#CodingChallenge`
 
 ---
 
@@ -50,7 +50,7 @@ Before **July 15**, make sure your environment is ready:
 
 ## 📚 Challenge Syllabus (Overview)
 
-*The exact daily tasks will be unlocked each morning. Here is the roadmap of what we will conquer together:*
+*The exact daily tasks will be unlocked each evening. Here is the roadmap of what we will conquer together:*
 
 * **Phase 1 (Days 1 - 10):** UI/UX Fundamentals & Responsive Design
 * **Phase 2 (Days 11 - 25):** Core Logic, JavaScript, and DOM Manipulation
