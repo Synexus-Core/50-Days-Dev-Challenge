@@ -17,6 +17,20 @@ A fully operational, deployed web application featuring:
 * **Offline-First Architecture:** Service Workers that cache the UI, and an IndexedDB database that securely stores form submissions when the internet drops.
 * **Multithreading:** Web Workers that handle heavy background calculations without freezing the user interface.
 
+## 💡 Top 10 Capstone Project Ideas
+Because you are building standard architecture, you can adapt these mechanics to almost any industry. Here are 10 project ideas you can build during Phase 5 to showcase your skills:
+
+1. **Community Management Platform:** A dashboard for student clubs or developer groups. Use WebSockets for live announcements, IndexedDB for offline event registration, and Web Components for member profile cards.
+2. **Logistics & Fleet Tracking System:** A live dashboard for tracking deliveries. Use WebSockets to stream driver locations, Web Workers to calculate ETA algorithms in the background, and Pub/Sub to update delivery statuses globally.
+3. **Hyperlocal "Phygital" Marketplace:** A platform connecting local brick-and-mortar stores to digital consumers. Build a reactive cart using the Pub/Sub store, component-based product cards, and offline cart-saving via IndexedDB.
+4. **Aviation / Flight Telemetry Dashboard:** A live monitor for flight simulation data. Stream rapid telemetry data via WebSockets and use Web Workers to process altitude/speed conversions without freezing the UI.
+5. **Collaborative Kanban Task Board:** A project management tool for remote teams. Use native Drag-and-Drop APIs, offline task creation that syncs when the internet returns, and encapsulated UI columns.
+6. **Personal Finance & Analytics Tracker:** An expense tracker that handles massive datasets. Use Web Workers to sort and calculate thousands of financial records, rendering the results into a reactive Web Component dashboard.
+7. **IoT Smart Home Command Center:** A central hub to control digital devices. Rely heavily on Global State Management (Pub/Sub) to ensure that if a "Living Room Light" component is toggled, the overall "Power Usage" component reacts instantly.
+8. **Healthcare Patient Monitor:** A robust, zero-fail dashboard. If the hospital Wi-Fi drops, the Service Worker keeps the UI alive while IndexedDB logs the nurses' vital readings securely until the connection returns.
+9. **Crypto / Web3 Portfolio Interface:** A fast, stateless UI that fetches live API market data. Use Web Workers to crunch heavy cryptographic hashes or calculate market trends off the main thread.
+10. **AI Prompt Engineering Workspace:** A productivity tool for saving, categorizing, and testing AI prompts. Build an offline-first markdown editor that caches user data locally and uses standard `fetch` architecture to communicate with external AI APIs.
+
 ## 🧱 How the 50 Days Add Up
 * **Phase 1 (UI & Layout):** You will build the responsive shells, grids, and accessible HTML structures.
 * **Phase 2 (Logic & DOM):** You will learn to manipulate the screen dynamically and handle user inputs safely.
